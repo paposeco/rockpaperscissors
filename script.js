@@ -70,6 +70,9 @@ function game() {
     if (letsPlay === NaN) {
       continue;
     }
+    console.log(
+      `Score so far: Player - ${playerPoints}, Computer - ${computerPoints}.`
+    );
   }
   if (playerPoints > computerPoints) {
     console.log(
