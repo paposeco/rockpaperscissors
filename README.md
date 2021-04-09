@@ -1,2 +1,1 @@
-Rock, Paper, Scissors game, in console.log version only.
-Case insensitive and also checks whether the user input is valid.
+Rock, paper, scissors game implementation for the Odin Project.
