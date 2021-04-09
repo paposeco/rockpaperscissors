@@ -140,8 +140,6 @@ function stopClickAlert(button) {
 }
 
 //css
-body.style.width = "99vw";
-body.style.height = "99vh";
 body.style.background = "linear-gradient(35deg, #CCFFFF, #FFCCCC)";
 body.style.display = "flex";
 body.style.flexDirection = "column";
